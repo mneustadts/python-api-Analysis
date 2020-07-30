@@ -32,4 +32,6 @@ Randomly select at least 500 unique (non-repeat) cities based on latitude and lo
 Obtain the weather from each city using the OpenWeatherMap API.
 Include a print log of each city as it's being processed, with the city number and city name.
 Save a CSV of all retrieved data and a PNG image for each scatter plot.
-Analysis:
+
+Analysis: There seems to only be a correlation to Latitude as it relates to Temperature. Cloudiness, Windspeed, and Humidity have loose relationships at best to the latitude variable.
+As far as the relationship between Northern and Southern Hemispheres, It does not seem to be a large difference statisically between the two in any of the categories that we analyzed. 
