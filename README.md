@@ -24,4 +24,5 @@ Southern Hemisphere - Cloudiness (%) vs. Latitude
 Northern Hemisphere - Wind Speed (mph) vs. Latitude
 Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-Analysis: There seems to only be a correlation to Latitude as it relates to Temperature. Cloudiness, Windspeed, and Humidity have loose relationships at best to the latitude variable. As far as the relationship between Northern and Southern Hemispheres, It does not seem to be a large difference statisically between the two in any of the categories that I analyzed.
+Analysis: There seems to only be a correlation to Latitude as it relates to Temperature. Cloudiness, Windspeed, and Humidity have loose relationships at best to the latitude variable.
+As far as the relationship between Northern and Southern Hemispheres, It does not seem to be a large difference statisically between the two in any of the categories that we analyzed. 
