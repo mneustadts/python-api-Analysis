@@ -35,35 +35,35 @@ I plotted the following:
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 
-![fig5](./WeatherPy/Figures/fig5.png?raw=true "fig5")
+![fig5](./WeatherPy/Figures/regress1.png?raw=true "fig5")
 
 * Southern Hemisphere - Temperature (F) vs. Latitude
 
-![fig6](./WeatherPy/Figures/fig6.png?raw=true "fig6")
+![fig6](./WeatherPy/Figures/regress2.png?raw=true "fig6")
 
 * Northern Hemisphere - Humidity (%) vs. Latitude
 
-![fig7](./WeatherPy/Figures/fig7.png?raw=true "fig7")
+![fig7](./WeatherPy/Figures/regress3.png?raw=true "fig7")
 
 * Southern Hemisphere - Humidity (%) vs. Latitude
 
-![fig8](./WeatherPy/Figures/fig8.png?raw=true "fig8")
+![fig8](./WeatherPy/Figures/regress4.png?raw=true "fig8")
 
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
 
-![fig9](./WeatherPy/Figures/fig9.png?raw=true "fig9")
+![fig9](./WeatherPy/Figures/regress5.png?raw=true "fig9")
 
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
 
-![fig10](./WeatherPy/Figures/fig10.png?raw=true "fig10")
+![fig10](./WeatherPy/Figures/regress6.png?raw=true "fig10")
 
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 
-![fig11](./WeatherPy/Figures/fig11.png?raw=true "fig11")
+![fig11](./WeatherPy/Figures/regress7.png?raw=true "fig11")
 
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-![fig12](./WeatherPy/Figures/fig12.png?raw=true "fig12")
+![fig12](./WeatherPy/Figures/regress8.png?raw=true "fig12")
 
 ### Analysis:
 There seems to only be a correlation to Latitude as it relates to Temperature. Cloudiness, Windspeed, and Humidity have loose relationships at best to the latitude variable.
