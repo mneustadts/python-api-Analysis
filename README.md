@@ -1,10 +1,10 @@
 # Python API project - Weather
 
 ## Summary
-In this project I was tasked with creating a Python script to visualize the weather of 500+ cities across the world, at varying distances from the equator. To accomplish this, I used a simple Python library called Citipy, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
+This project dealt with creating a Python script to visualize the weather of 500+ cities across the world, at varying distances from the equator. To accomplish this, a simple Python library called Citipy, the OpenWeatherMap API, and a little common sense were used to create a representative model of weather across world cities.
 
 ### Data Retrieval
-I started by getting a random list of around 500+ cities from the Citipy library. Then using that list I called on the OpenWeatherMap API to get a dataframe consisting of all the columns of relevant information I needed in ordr to run my analysis. 
+Get a random list of around 500+ cities from the Citipy library. Then using that list on the OpenWeatherMap API to get a dataframe consisting of all the columns of relevant information needed in order to run an analysis. 
 
 ![Data_R](./WeatherPy/Figures/Datar.png?raw=true "Data_R")
 
@@ -29,9 +29,9 @@ I started by getting a random list of around 500+ cities from the Citipy library
 ![fig4](./WeatherPy/Figures/fig4.png?raw=true "fig4")
 
 #### Linear regression of each relationship:
-(first I separated them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).)
+(first separate them into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude).)
 
-I plotted the following:
+Plot the following:
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
 
@@ -67,4 +67,4 @@ I plotted the following:
 
 ### Analysis:
 There seems to only be a correlation to Latitude as it relates to Temperature. Cloudiness, Windspeed, and Humidity have loose relationships at best to the latitude variable.
-As far as the relationship between Northern and Southern Hemispheres, It does not seem to be a large difference statisically between the two in any of the categories that I analyzed. 
+As far as the relationship between Northern and Southern Hemispheres, It does not seem to be a large difference statisically between the two in any of the categories analyzed. 
